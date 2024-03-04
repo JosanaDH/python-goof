@@ -65,4 +65,4 @@ webencodings==0.5.1
 Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 xlrd==1.1.0
-django==3.2.16
+django==3.2.25
